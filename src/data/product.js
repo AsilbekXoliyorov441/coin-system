@@ -172,10 +172,45 @@ export const products = [
   {
     id: 20,
     name: "Kamera va smartfonlar uchun shtativ-tripoid — ixcham va universal",
-    description:
-      "🌿 Moslashuvchan oyoqlar — istalgan joyda ishlaydi",
+    description: "🌿 Moslashuvchan oyoqlar — istalgan joyda ishlaydi",
     category: "Aksessuarlar",
-    price: 900,
+    price: 195,
     image: "https://images.uzum.uz/d7if3e21146ojv9fvs8g/original.jpg",
+  },
+  {
+    id: 21,
+    name: "Simsiz Bluetooth quloqchinlar P9, mikrofonli, to'liq o'lchamli",
+    description:
+      "Simsiz Bluetooth quloqchinlar P9, mikrofonli, to'liq o'lchamli",
+    category: "Aksessuarlar",
+    price: 220,
+    image: "https://images.uzum.uz/d8l6iq49g1ktqmltbd9g/original.jpg",
+  },
+  {
+    id: 22,
+    name: "Allohga oson amaliyoti - Ruhiy yuksalish uchun kundalik",
+    description:
+      "Allohga oson amaliyoti — mo‘minlar uchun mo‘ljallangan amaliy daftar bo‘lib, Alloh bilan bo‘lgan munosabatni mustahkamlashga xizmat qiladi. Unda kundalik ibodatlar, amallar va ruhiy mashqlar jamlangan. Daftarda duo qilish, niyatlarni yozib borish hamda Allohning go‘zal ismlari bilan mashg‘ul bo‘lish kabi amaliyotlar mavjud bo‘lib, ular qalbni tinchlantiradi va Alloh taoloning rahmati hamda hidoyatini anglashni osonlashtiradi. Shuningdek, har kuni, haftada yoki oyda bajariladigan amallar orqali o‘quvchining diniy hayotini tartibga solishga yordam beradi.",
+    category: "Kitoblar",
+    price: 147,
+    image: "https://images.uzum.uz/d6sqlk21146lmcd3bp5g/original.jpg",
+  },
+   {
+    id: 23,
+    name: "O‘lmas Umarbekov - Odam bo‘lish qiyin",
+    description:
+      "Asar haqida qisqacha:Bu qissa yoki hikoya markazida insonning “odam bo‘lish yo‘lidagi ichki kurashi turadi. Asarda qahramonlar orqali shaxsiy manfaat, vijdon, adolat va jamiyat talablari o‘rtasidagi ziddiyatlar ko‘rsatiladi.",
+    category: "Kitoblar",
+    price: 143,
+    image: "https://images.uzum.uz/d5f51bgjsv1neact8q0g/original.jpg",
+  },
+   {
+    id: 23,
+    name: "O‘gay Ona — Ahmad Lutfi Qozonchi Turk Adabiyotining Ta’sirchan Bestseller Romani RU",
+    description:
+      "Yugay Ona — turk yozuvchisi Ahmad Lutfi Qozonchi qalamiga mansub ma’naviy va tarbiyaviy roman bo‘lib, onalikning ulug‘ maqomi, farzand tarbiyasi va oilaviy qadriyatlarni chuqur yoritadi.Asarda ona va farzand o‘rtasidagi mehr-muhabbat, fidoyilik, sabr-toqat va hayot sinovlari ta’sirchan voqealar orqali tasvirlangan. Muallif onaning qalbidagi cheksiz muhabbatni, uning farzandi uchun har qanday qiyinchilikka bardosh bera olishini mahorat bilan ko‘rsatadi. Roman davomida o‘quvchi",
+    category: "Kitoblar",
+    price: 140,
+    image: "https://images.uzum.uz/d8cm19jsv8vo2t0i2rlg/original.jpg",
   },
 ];
